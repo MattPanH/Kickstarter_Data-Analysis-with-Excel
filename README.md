@@ -3,7 +3,7 @@ Kickstarter, the crowdfunding platform, is thinking about providing a consulting
 <br>
 <br>
 <h2> Data Analytics Questions </h2>
-<br/>1) Which project category had the highest success in reaching its funding goal?
+1) Which project category had the highest success in reaching its funding goal?
 <br/>2) What is the success rate of projects across different states and countries?
 <br/>3) What is the difference between successful and failed projects?
 <br>
